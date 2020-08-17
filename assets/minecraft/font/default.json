@@ -1,0 +1,43 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:blank.png",
+            "ascent": -32767,
+            "height": -5,
+            "chars": [
+                "\uf801",
+                "\uf802",
+                "\uf803",
+                "\uf804",
+                "\uf805",
+                "\uf806",
+                "\uf807",
+                "\uf808",
+                "\uf809",
+                "\uf80a",
+                "\uf80b",
+                "\uf80c",
+                "\uf80d",
+                "\uf80e",
+                "\uf80f",
+                "\uf810",
+                "\uf811",
+                "\uf812",
+                "\uf813",
+                "\uf814",
+                "\uf815",
+                "\uf816",
+                "\uf817",
+                "\uf818",
+                "\uf819",
+                "\uf81a",
+                "\uf81b",
+                "\uf81c",
+                "\uf81d",
+                "\uf81e",
+                "\uf81f"
+            ]
+        }
+    ]
+} 
