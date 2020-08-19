@@ -6,4 +6,6 @@ This resource pack requires [OptiFine](https://optifine.net/downloads) to use.
 
 ### Credits
 
-- [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) for the development textures.
+- [Imagine4](https://twitter.com/iAmAFig) for adorable proper textures.
+
+- [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) for the old development textures.
